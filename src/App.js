@@ -70,20 +70,14 @@ export default App;
 
 
 
-
-
-
 // import React from 'react';
-// import Characters from './Characters';
-// import { Container } from '@mui/material';
+// import './styles.css';
+// import Main from './script.js';
 
-// const App = () => {
-//   return (
-//     <Container maxWidth="md">
-//       <h1>Rick and Morty Characters</h1>
-//       <Characters />
-//     </Container>
-//   );
-// };
+// const App = () => (
+//   <React.StrictMode>
+//     <Main />
+//   </React.StrictMode>
+// );
 
 // export default App;
